@@ -1,5 +1,5 @@
 # ZK Jobs Fair - Jobs Board
-The following are open jobs from exhibiting teams as well as a few non-exhibiting teams looking for new hires. There are 3 categories of jobs: Community, Software Development, & Cryptography/Engineering. Please feel free to reach out to participating teams in order to schedule meetings at the ZK Jobs Fair or afterwards. 
+The following are open jobs from exhibiting teams as well as a few non-exhibiting teams looking for new hires. There are 3 categories of jobs: Community, Software Development, & Cryptography/Engineering. Please feel free to reach out to participating teams in order to schedule meetings at the ZK Jobs Fair - happening on April 22 2021. 
 
 ### Community & Biz Dev
 
