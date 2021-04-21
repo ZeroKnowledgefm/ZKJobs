@@ -71,6 +71,9 @@ This position is *full-time, part-time, or contract* and starts on asap. Work on
 * **Applied Cryptographer Engineer @ zkSync**
 This position is full-time. Visit [this link](https://www.notion.so/matterlabs/Applied-Cryptography-Engineer-fa892a33e227414eaa31523331d91b70) to learn more. To apply, please contact hello@matterlabs.dev
 
+* **Cryptography Engineer @ cLabs / Celo**
+This position is full-time / contract. Celo is seeking engineers to join our cryptography team. The cryptography team at cLabs is responsible for building and researching advanced cryptographic solutions to make Celo secure, attack resilient, and scalable. Our stack includes SNARKs, VOPRFs, BLS signatures and other kinds of advanced cryptography. To learn more and apply, please contact us at kobi@clabs.co
+
 * **Applied Cryptographer @ Horizen Labs**
 This position is full-time and starts ASAP. Looking for a Cryptographer with SNARK experience. Dev. skills are a plus. We offer a competitive salary, stock options and an amazing project.  To learn more and apply, please contact maurizio@horizenlabs.io
 
@@ -79,6 +82,9 @@ This position is full-time. We are looking for a cryptography researcher with fo
 
 * **Senior Applied Cryptography Engineer @ Tornado.cash**
 This position is full-time and available immediately.We are looking for experienced software engineers that have some familiarity with implementing cryptographic protocols, ideally in a production setting. You will write low-level zk-SNARK circuits that implement the next incarnation of our private cryptocurrency protocol. Our technology stack makes heavy use of ZkSnarks, javascript and Solidity smart contracts. To learn more and apply, please contact hello@tornado.cash
+
+* **Senior ZK researcher @ Cryptography Research Centre, Technology Innovation Institute (TII)**
+This is a full-time position, and starts on Q3. R&D on ZK. Integration of ZK in team projects, including verifiable computation, MPC and PQC. Propose new directions. Full description [here](https://careers.tii.ae/job/Abu-Dhabi-Senior-Zero-Knowledge-Researcher/571295922). To learn more and apply, please contact mehdi.messaoudi@tii.ae
 
 * **Cryptography Researcher Position — Zero Knowledge Virtual Machines @ Ethereum Foundation**
 This position is full-time. We are looking for a researcher to drive the development of Zero Knowledge Virtual Machines to join the cryptography research team at the Ethereum Foundation. More info: https://ethereum.bamboohr.com/jobs/view.php?id=34. To learn more and apply, please contact cryptography@ethereum.org
