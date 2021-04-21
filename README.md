@@ -54,16 +54,19 @@ This position is *full-time, part-time, or contract* and starts on asap. Work on
 This position is full-time and starts on 01/06/2021 (flexible start date). We are looking for software engineers with some familiarity with implementing cryptographic protocols, to develop our Plonk ZK-SNARK. To learn more and apply, please contact hello@aztecprotocol.com
 
 * **Security / Cryptography Researcher & Engineer @ Least Authority**
-This position is full-time, part-time or a short-term contract and available immediately. Software engineer or mathematician interested in security research for advanced applied cryptography, inc. zkps, and especially with distributed systems. To learn more and apply, please contact jobs@leastauthority.comjobs@le
+This position is full-time, part-time or a short-term contract and available immediately. Software engineer or mathematician interested in security research for advanced applied cryptography, inc. zkps, and especially with distributed systems. To learn more and apply, please contact jobs@leastauthority.com
+
+* **Blockchain Researcher @ DeversiFi**
+This position is full-time and is available to start now. Join our Innovation team alongside our CEO to research the latest scaling and blockchain technologies to inform strategic decisions. To learn more and apply, please contact careers@deversifi.com
 
 * **Zero Knowledge Research Engineer @ Panther Protocol**
-This position is a flexi-time role as a consultant, starting ASAP. The role is ~75% research / ~25% engineering on ZK / cryptographic protocols providing privacy / compliance within the blockchain / DeFi space. To learn more and apply, please contact taliac@pantherprotocol.io.
+This position is a flexi-time role as a consultant, starting ASAP. The role is ~75% research / ~25% engineering on ZK / cryptographic protocols providing privacy / compliance within the blockchain / DeFi space. To learn more and apply, please contact taliac@pantherprotocol.io
 
 * **Zero-Knowledge Cryptographer & Protocol Developer @ Anoma (built by Heliax)**
 This position is full-time and starts on the 3rd of May (but we’re flexible). Design, evaluate, & implement ZKP constructions, distributed cryptographic protocols, & primitives – deploy them to bring true privacy to the world. To learn more and apply, please contact jobs@heliax.dev
 
 * **Applied Cryptography Engineer @ Webb*:*.**
-This position is *full-time, part-time, or contract* and starts on asap. Work on development of zero-knowledge gadgets for interoperable and privacy-preserving cryptocurrency protocols. To learn more and apply, check out this link. please contact drew@webb.tools.
+This position is *full-time, part-time, or contract* and starts on asap. Work on development of zero-knowledge gadgets for interoperable and privacy-preserving cryptocurrency protocols. To learn more and apply, check out this link. please contact drew@webb.tools
 
 * **Applied Cryptographer Engineer @ zkSync**
 This position is full-time. Visit [this link](https://www.notion.so/matterlabs/Applied-Cryptography-Engineer-fa892a33e227414eaa31523331d91b70) to learn more. To apply, please contact hello@matterlabs.dev
