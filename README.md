@@ -45,8 +45,8 @@ This position is full time and we are hiring on a rolling basis. At Electric Coi
 * **Distributed Systems Research Engineer @ Anoma (built by Heliax)**
 This position is full-time and starts on the 3rd of May (but we’re flexible). Design & implement consensus algorithms, novel peer-to-peer networking layers, both ensuring their theoretical soundness and correctly realizing them in code. To learn more and apply, please contact jobs@heliax.dev
 
-* **Distributed Systems Engineer @ Webb*:*.**
-This position is *full-time, part-time, or contract* and starts on asap. Work on development of distributed systems protocols like distributed-key generation and oracle protocols for building interoperable and private cross-chain applications. To learn more and apply, check out this link please contact drew@webb.tools
+* **Distributed Systems Engineer @ Webb**
+This position is *full-time, part-time, or contract* and starts immediately. Join the core engineering team working on the development of distributed systems protocols like distributed-key generation and oracle protocols for building interoperable and private cross-chain applications. To learn more and apply, check out this [link](https://www.notion.so/hicommonwealth/Distributed-Systems-Engineer-Webb-4ac290069c8643e0ae176ac5fb2a99b3) or email drew@webb.tools.
 
 ### Cryptography/Engineering
 
@@ -65,8 +65,8 @@ This position is a flexi-time role as a consultant, starting ASAP. The role is ~
 * **Zero-Knowledge Cryptographer & Protocol Developer @ Anoma (built by Heliax)**
 This position is full-time and starts on the 3rd of May (but we’re flexible). Design, evaluate, & implement ZKP constructions, distributed cryptographic protocols, & primitives – deploy them to bring true privacy to the world. To learn more and apply, please contact jobs@heliax.dev
 
-* **Applied Cryptography Engineer @ Webb*:*.**
-This position is *full-time, part-time, or contract* and starts on asap. Work on development of zero-knowledge gadgets for interoperable and privacy-preserving cryptocurrency protocols. To learn more and apply, check out this link. please contact drew@webb.tools
+* **Applied Cryptography Engineer @ Webb**
+This position is *full-time, part-time, or contract* and starts immediately. Join the core engineering team working on the development of zero-knowledge gadgets for interoperable and privacy-preserving cryptocurrency protocols. To learn more and apply, check out this [link](https://www.notion.so/hicommonwealth/Applied-Cryptography-Engineer-Webb-2309aa0bfafc41afa0ffabf7fa5b8ec7) or email drew@webb.tools
 
 * **Applied Cryptographer Engineer @ zkSync**
 This position is full-time. Visit [this link](https://www.notion.so/matterlabs/Applied-Cryptography-Engineer-fa892a33e227414eaa31523331d91b70) to learn more. To apply, please contact hello@matterlabs.dev
