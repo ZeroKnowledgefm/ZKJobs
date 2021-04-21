@@ -27,6 +27,9 @@ This position is either full-time or part-time, starts ASAP. We're looking for d
 * **Rust Developer @ Horizen Labs**
 This position is full-time and starts ASAP. Looking for a passionate Rust developer with min 2 years of experience. We offer a competitive salary, stock options and an amazing project.  To learn more and apply, please contact maurizio@horizenlabs.io  
 
+* **Senior Rust Engineer @ cLabs / Celo**
+This position is full-time. Join the cross-chain team at Celo working on a new gas-efficient interoperability system for all blockchains that support smart contracts. Experience with Rust is desired, and bonus is any experience with Solidity and interest in blockchains / cryptography. To learn more and apply, please contact prestwich@clabs.co.
+
 * **Senior Rust Blockchain Engineer @ Phala Network**
 This position is full-time (remote) and starts in May. Core Protocol Dev. Need: 2 yr Rust, solid blockchain & distributed systems, basic cryptography. Nice: Substrate, serverless, WASM, dist. Storage. To learn more and apply, please contact hire@phala.network
 
