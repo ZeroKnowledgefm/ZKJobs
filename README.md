@@ -33,6 +33,9 @@ This position is full-time. Join the cross-chain team at Celo working on a new g
 * **Senior Rust Blockchain Engineer @ Phala Network**
 This position is full-time (remote) and starts in May. Core Protocol Dev. Need: 2 yr Rust, solid blockchain & distributed systems, basic cryptography. Nice: Substrate, serverless, WASM, dist. Storage. To learn more and apply, please contact hire@phala.network
 
+* **(Rust) Software Engineer @ Chain-Reaction**
+The position is full time or part time. Senior software engineer with deep knowledge of Rust and C++ for building and integrating hardware acceleration into state of art cryptographic (open source) libraries. To learn more and apply please contact nir@chain-reaction.io
+
 * **Senior Software Engineer (Rust) @ zkSync**
 This position is full-time. Visit [this link](https://www.notion.so/matterlabs/Senior-Software-Engineer-Rust-162f87f441214eb39619f83bdd9b3073) to learn more. To apply, please contact hello@matterlabs.dev
 
@@ -89,4 +92,6 @@ This is a full-time position, and starts on Q3. R&D on ZK. Integration of ZK in 
 * **Cryptography Researcher Position — Zero Knowledge Virtual Machines @ Ethereum Foundation**
 This position is full-time. We are looking for a researcher to drive the development of Zero Knowledge Virtual Machines to join the cryptography research team at the Ethereum Foundation. More info: https://ethereum.bamboohr.com/jobs/view.php?id=34. To learn more and apply, please contact cryptography@ethereum.org
 
+* **Applied Cryptography Engineer @ Chain-Reaction**
+The position is full time or part time. Cryptographer with strong mathematical and engineering background for defining and modeling advanced cryptographic protocols SW/HW architecture (ZKP,FHE,MPC). To learn more and apply please contact nir@chain-reaction.io
 
