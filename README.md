@@ -9,6 +9,8 @@ This position is full-time or part-time (remote) and starts in May. Promote Phal
 * **Client Coordinator @ Least Authority**
 This position is part-time to full-time and available immediately. Help us stay organized with and responsive to our security consulting clients and partners and provide key support to our project managers. To learn more and apply, please contact jobs@leastauthority.com
 
+* **Community & Events Coordinator @ ZKValidator**
+This position is full-time and starts immediately. We are looking for an organised and socially skilled candidate to represent the ZKValidator within the Polkadot, Kusama, Near, Cosmos, & Mina ecosystem channels, as well as running events & workshops focused on zk tech development in those networks. To apply, please email hello@zkvalidator.com 
 
 ### Software Development/Engineering
 
