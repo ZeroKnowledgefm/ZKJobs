@@ -24,7 +24,7 @@ This position is full-time and starts as soon as possible. The person will be wo
 This position is full-time and starts on 01/06/2021 (flexible start date). We are looking for a software engineer to work on our Noir ZK-SNARK programming language and private smart contract framework. To learn more and apply, please contact hello@aztecprotocol.com
 
 * **Rust Developer @ Aleph Zero**
-This position is either full-time or part-time, starts ASAP. We're looking for developers for a project using MPC and ZK-SNARKs built with Rust and Substrate. Experience in MPC/Substrate not required. To learn more and apply, please contactcareers@alephzero.org
+This position is either full-time or part-time, starts ASAP. We're looking for developers for a project using MPC and ZK-SNARKs built with Rust and Substrate. Experience in MPC/Substrate not required. To learn more and apply, please contact careers@alephzero.org
 
 * **Rust Developer @ Horizen Labs**
 This position is full-time and starts ASAP. Looking for a passionate Rust developer with min 2 years of experience. We offer a competitive salary, stock options and an amazing project.  To learn more and apply, please contact maurizio@horizenlabs.io  
