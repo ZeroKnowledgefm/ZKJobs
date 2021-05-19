@@ -1,9 +1,9 @@
-#ZK Jobs Fair - Jobs Board
+# ZK Jobs Fair - Jobs Board
 The following are open jobs from teams exhibiting at the ZK Jobs Fair as well as a few non-exhibiting teams looking for new hires. There are 3 categories of jobs: Community, Software Development, & Cryptography/Research. Please feel free to reach out to participating teams and apply! 
 
 Also, to be reminded about the next ZK Jobs Fair, signup [here](https://zeroknowledge.substack.com).
 
-###Community & Biz Dev
+### Community & Biz Dev
 
 * **Community Manager @ DeversiFi.** This position is full-time and is available to start now. Join our Marketing team to spearhead the creation and growth of the DVF community. To learn more and apply, please contact careers@deversifi.com
 
@@ -11,7 +11,7 @@ Also, to be reminded about the next ZK Jobs Fair, signup [here](https://zeroknow
 
 * **Community & Events Coordinator @ ZKValidator.** This position is full-time and starts immediately. We are looking for an organised and socially skilled candidate to represent the ZKValidator within the Polkadot, Kusama, Near, Cosmos, & Mina ecosystem channels, as well as running events & workshops focused on zk tech development in those networks. To apply, please email hello@zkvalidator.com
 
-###Software Development/Engineering
+### Software Development/Engineering
 
 * **Software Engineer @ Iron Fish.** This position is full-time and starts as soon as possible. You’ll be working on protocol development of Iron Fish, a privacy focused layer 1 project, using a mix of Typescript, Rust/WASM. Passionate about optimizing decentralized networks, working with ZKPs and developing core protocol features? Then we’d like to hear from you! To learn more or to apply, please contact elena@ironfish.network.  
 
@@ -36,7 +36,7 @@ Also, to be reminded about the next ZK Jobs Fair, signup [here](https://zeroknow
 * **Blockchain Researcher @ DeversiFi.** This position is full-time and is available to start now. Join our Innovation team alongside our CEO to research the latest scaling and blockchain technologies to inform strategic decisions. To learn more and apply, please contact careers@deversifi.com
 
 
-###Cryptography/Engineering
+### Cryptography/Engineering
 
 * **Applied Cryptography Engineer @ Iron Fish.** This position is full-time and starts as soon as possible. Iron Fish is a new privacy focused layer 1 project heavily influenced by the Sapling protocol. You’ll be working on extending Iron Fish to support multiple assets and help set up the groundwork for bridges to support assets on other chains. To learn more or to apply, please contact elena@ironfish.network.  
 
